@@ -1,0 +1,5 @@
+music_player/
+│
+├── main.py             # Python script for the music player
+├── music/              # Directory to store music files (MP3, WAV, etc.)
+└── README.md           # Instructions for the project (optional)
